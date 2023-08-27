@@ -3,4 +3,4 @@
 
 ## Experience it by clicking the badge below:
 
-[Play Canvas Game](https://img.shields.io/badge/Play%20Game-Netlify-blue)](https://your-game-url-on-netlify.com)
+[Play Canvas Game](https://moving-random-balls.netlify.app)
