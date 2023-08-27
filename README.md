@@ -1,5 +1,5 @@
 # Using HTML Canvas created automaticaaly moving random balls
-![Gameplay Screenshot](screenshots/screenshot.png)
+![Gameplay Screenshot](canvas-dot-1.png)
 
 ## Experience it by clicking the badge below:
 
