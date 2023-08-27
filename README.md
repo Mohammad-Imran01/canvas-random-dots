@@ -3,4 +3,4 @@
 
 ## Experience it by clicking the badge below:
 
-[Play Canvas Game](https://moving-random-balls.netlify.app)
+[Go to the app deployed on netlify: ](https://moving-random-balls.netlify.app)
